@@ -1,0 +1,1 @@
+{"name":"Local: exponentiation","url":"/Users/jamesnguyen/dev/codeforces/exponentiation.py","tests":[{"id":1787800807990,"input":"3\n3 4\n2 8\n123 123\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jamesnguyen/dev/codeforces/exponentiation.py","group":"local","local":true}
