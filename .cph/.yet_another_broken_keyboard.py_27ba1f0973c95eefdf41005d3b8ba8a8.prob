@@ -1,0 +1,1 @@
+{"name":"Local: yet_another_broken_keyboard","url":"/Users/jamesnguyen/dev/codeforces/yet_another_broken_keyboard.py","tests":[{"id":1789053999448,"input":"7 2\nabacaba\na b\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jamesnguyen/dev/codeforces/yet_another_broken_keyboard.py","group":"local","local":true}
