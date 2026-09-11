@@ -1,0 +1,1 @@
+{"name":"Local: kth_beautiful_string","url":"/Users/jamesnguyen/dev/codeforces/kth_beautiful_string.py","tests":[{"id":1789073314027,"input":"7\n5 1\n5 2\n5 8\n5 10\n3 1\n3 2\n20 100\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jamesnguyen/dev/codeforces/kth_beautiful_string.py","group":"local","local":true}
