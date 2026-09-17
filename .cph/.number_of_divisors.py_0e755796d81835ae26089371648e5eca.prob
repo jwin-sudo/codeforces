@@ -1,0 +1,1 @@
+{"name":"Local: number_of_divisors","url":"/Users/jamesnguyen/dev/codeforces/number_of_divisors.py","tests":[{"id":1789612379333,"input":"3\n12\n5\n9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jamesnguyen/dev/codeforces/number_of_divisors.py","group":"local","local":true}
