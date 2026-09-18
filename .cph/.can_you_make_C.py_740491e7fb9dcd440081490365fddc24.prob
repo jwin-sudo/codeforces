@@ -1,0 +1,1 @@
+{"name":"Local: can_you_make_C","url":"/Users/jamesnguyen/dev/codeforces/can_you_make_C.py","tests":[{"id":1789679167950,"input":"2\n6 9 33\n2 8 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jamesnguyen/dev/codeforces/can_you_make_C.py","group":"local","local":true}
